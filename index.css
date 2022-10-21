@@ -1,0 +1,58 @@
+body {
+    
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.container{
+    background-image: url("coffee_edited.jpg");
+    background-size: cover;
+    max-width: 500px;    
+    padding: 30px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #242331;
+    background-color: #ede0d4;
+    max-width: 280px;
+    margin: 10px auto;
+    padding: 6px 10px;
+    border-radius: 5px;
+
+}
+
+.header {
+    font-size: smaller;
+    color: #533e2d;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    display: block;
+    align-self: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#increment-btn {
+    background: #242331;
+}
+
+#save-btn {
+    background: #533e2d;
+}
+
