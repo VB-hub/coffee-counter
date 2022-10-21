@@ -10,6 +10,7 @@ body {
     max-width: 500px;    
     padding: 30px;
     border-radius: 5px;
+    margin: auto;
 }
 
 h1 {
